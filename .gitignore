@@ -174,3 +174,27 @@ pkg/
 src/
 
 *.vcfg
+gamemode_armsrace.cfg
+gamemode_casual.cfg
+gamemode_competitive_offline.cfg
+gamemode_competitive_short.cfg
+gamemode_competitive.cfg
+gamemode_coopmission.cfg
+gamemode_cooperative.cfg
+gamemode_competitive2v2.cfg
+gamemode_competitive2v2_offline.cfg
+gamemode_deathmatch_tmm.cfg
+gamemode_deathmatch_short.cfg
+gamemode_demolition.cfg
+gamemode_dm_freeforall.cfg
+gamemode_new_user_training.cfg
+gamemode_retakecasual.cfg
+perftest.cfg
+server.cfg
+server_default.cfg
+gamemode_competitive_tmm.cfg
+gamemode_deathmatch.cfg
+gamemode_custom.cfg
+.gitignore
+gamemode_workshop.cfg
+gamemode_teamdeathmatch.cfg
